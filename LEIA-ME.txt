@@ -1,0 +1,23 @@
+SITE DA TAINÁ — LINK DA BIO + PÁGINA DA CLÍNICA
+
+Arquivos:
+- index.html   -> página de links (é a que abre pelo link da bio do Instagram)
+- clinica.html -> página completa da clínica (abre no botão "Conheça a clínica")
+- img/         -> fotos e logo
+- favicon.png  -> ícone da aba
+
+COMO PUBLICAR NO GITHUB (grátis)
+1. Crie uma conta em github.com com o e-mail da Tainá. Sugestão de usuário: drataolivera
+2. Clique em "New repository". Nome EXATO: drataolivera.github.io  (usuário + .github.io). Deixe "Public" e crie.
+3. Na página do repositório, clique em "uploading an existing file".
+4. Arraste TUDO de dentro desta pasta (index.html, clinica.html, favicon.png e a pasta img). Clique em "Commit changes".
+5. Vá em Settings > Pages. Em "Source", escolha "Deploy from a branch", branch "main", pasta "/ (root)". Salve.
+6. Em 1 a 2 minutos o site abre em: https://drataolivera.github.io
+7. Coloque esse link na bio do Instagram (Editar perfil > Links).
+
+PARA ALTERAR DEPOIS
+- Abra o arquivo no GitHub, clique no lápis (Edit), altere e clique em "Commit changes". O site atualiza sozinho.
+
+OPCIONAL
+- Domínio próprio (ex.: drataolivera.com.br): registre no Registro.br e configure em Settings > Pages > Custom domain.
+- Google Analytics: troque G-XXXXXXXXXX no index.html e os campos [INSERIR GA4 ID] no clinica.html.
